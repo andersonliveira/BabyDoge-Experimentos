@@ -1,0 +1,6 @@
+1- acessar o site coinrankg para gerar sua api key
+2- npm install para instalar as dependências do projeto
+3- qtdDollar-> Devolve cotação do dollar e como parametro você passa um valor em
+reais para saber quanto dá em dollar.
+4-inerBabyDoge->Simulador de minerador de babyDoge coin
+5-priceBabyDoge->Pega o valor do criptoativo babyDoge e tbm simula a qtd de moedas compradas
